@@ -1,0 +1,14 @@
+* {
+    background-color: blueviolet;
+}
+
+.tasks-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.task-section {
+    border: 2px solid black;
+    border-radius: 5px;
+}
